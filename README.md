@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+- 🔭 I’m currently working on nothing
+- 🌱 I’m currently learning nothing
+- 👯 I’m looking to collaborate on nothing
 <!--
 **GladingRay/GladingRay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
